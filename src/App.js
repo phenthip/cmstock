@@ -8,8 +8,7 @@ import Stock from "./components/stock/stock";
 import StockEdit from "./components/stockEdit";
 import StockCreate from "./components/stockCreate";
 import Report from "./components/report/report";
-import "./App.css"
-
+import "./App.css";
 import { server, YES } from "./constants";
 import { setApp } from "./actions/app.action";
 import {
